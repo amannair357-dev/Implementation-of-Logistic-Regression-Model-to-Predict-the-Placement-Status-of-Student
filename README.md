@@ -30,7 +30,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 # Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 # Developed by: Jegan P
 # RegisterNumber:  212225240061
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -67,7 +67,7 @@ prediction = model.predict(X_test)
 
 print("Predicted Placement Status:")
 print(prediction)
-
+```
 ## Output:
 
 <img width="675" height="128" alt="image" src="https://github.com/user-attachments/assets/e93a4b5d-ccd5-487a-a5e6-189294c259bf" />
