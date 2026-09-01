@@ -10,9 +10,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Algorithm
 
 1.Start and import the required libraries and student dataset.
+
 2.Split the dataset into input features X and placement status y.
+
 3.Create a Logistic Regression model and train it using the training data.
+
 4.Predict the placement status using the trained model.
+
 5.Evaluate the model using accuracy score and display the result.
 
 ## Program:
@@ -23,7 +27,7 @@ Developed by: Aman Nair
 
 RegisterNumber:  212225240008
 
-```
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
